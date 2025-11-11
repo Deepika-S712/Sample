@@ -1,2 +1,2 @@
 # Sample
-Data_Analytics_Project
+HTML_Project
